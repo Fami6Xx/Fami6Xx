@@ -14,8 +14,8 @@ I'm currently studying high school in the Czech Republic and my major is program
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) <!--NodeJS -->
 
 ## ✨ GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fami6Xx&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fami6Xx&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fami6Xx&theme=dark&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fami6Xx&theme=dark&count_private=true" />
 
 
 
