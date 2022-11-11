@@ -8,10 +8,11 @@ I'm currently studying high school in the Czech Republic and my major is program
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a) <!--IntelliJ -->
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a) <!--C# -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) <!--JS -->
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) <!--Java -->
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a) <!--Java -->
 ![](https://img.shields.io/badge/Code-HTML_&_CSS-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) <!--Html & Css -->
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) <!--Express -->
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a) <!--NodeJS -->
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) <!--NodeJS -->
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) <!--Git -->
 
 ## ✨ GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fami6Xx&theme=dark&count_private=true" />
