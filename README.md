@@ -13,6 +13,7 @@ I'm currently studying high school in the Czech Republic and my major is program
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) <!--PHP -->
 ![](https://img.shields.io/badge/Code-HTML_&_CSS-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) <!--Html & Css -->
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) <!--React -->
+![](https://img.shields.io/badge/Framework-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a) <!--NextJS -->
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) <!--Express -->
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a) <!--NodeJS -->
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) <!--Git -->
