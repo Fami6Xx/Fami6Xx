@@ -23,6 +23,3 @@ I'm currently studying high school in the Czech Republic and my major is program
 ## ✨ GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fami6Xx&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fami6Xx&theme=dark&count_private=true" />
-
-## 📖 My new release
-[<img src="https://images.polymart.org/resource/5845/default.jpg" width="480" alt="Download RPUniverse | Minecraft Roleplay on Polymart.org" title="Download RPUniverse | Minecraft Roleplay on Polymart.org">](https://polymart.org/resource/rpuniverse-minecraft-roleplay.5845?utm_source=product-materials-image&utm_medium=referral&utm_campaign=product-5845-materials-image-default&utm_content=product-5845-user-2406-markdown)
