@@ -2,6 +2,7 @@
 
 My name is Martin Jeřábek and on the internet i go by nickname Fami6Xx but u can call me Fami 😄.
 I'm currently studying high school in the Czech Republic and my major is programming. I started programming when i was 14. I do Minecraft Plugin Development as a hobby and a way to earn some amounts of money.
+You can support me by buying me a coffe at [KoFi](https://ko-fi.com/fami6xx).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) <!--Windows -->
